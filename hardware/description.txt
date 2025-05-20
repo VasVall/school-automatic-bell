@@ -1,1 +1,4 @@
-
+Θήκη για τον ηλεκτρονικό εξοπλισμό.
+Σχέδιο βασισμένο στα:
+https://www.printables.com/model/407011-20x4-lcd-case-arduino/files
+https://www.thingiverse.com/thing:4297616
